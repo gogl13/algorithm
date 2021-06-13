@@ -1,5 +1,5 @@
-//let input = require("fs").readFileSync("./input.txt").toString().split(" ");
-let input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+let input = require("fs").readFileSync("./input.txt").toString().split(" ");
+//let input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
 
 let max = Number(input[0]);
 let answer = "";
